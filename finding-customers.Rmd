@@ -1,0 +1,108 @@
+---
+title: "Finding customers"
+author: "Steve Simon"
+output: powerpoint_presentation
+---
+
+## Abstract
+
+If you want to set up your own consulting business, you need to get the word out to potential customers. There are traditional ways to do this, but there are also new ways of improving your visibility using social media. This webinar will compare and contrast the traditional approaches (such as giving talks and volunteering) to “old school” Internet (such as websites and email newsletters) to social media (such as Facebook and Twitter). 
+
+<div class="notes">
+
+I won't read this whole abstract, but to get customers, you have to get "known." And getting known can be done with traditional approaches, old school internet, and social media.
+
+</div>
+
+## Abstract (continued)
+
+The key to all three approaches is that you give away small samples of what you know for free to establish your credibility and build up a network of contacts.
+
+<div class="notes">
+
+The commonality of all these approaches is that they are free from a money standpoint, but do require an investment of time.
+
+</div>
+
+## The best way to find customers
+
+![](images/word-of-mouth.png)
+
+<div class="notes">
+
+By far the best way to find new customers is the "word of mouth." People want to hire someone that they know and trust. If they don't have anyone, they will ask an acquaintance or colleague who they know and trust. You want be the first person that this acquaintance or colleague thinks of when they are asked this question.
+
+</div>
+
+## Who is likely to recommend you?
+
+* Current customers
+
+* Your fellow statisticians
+
+* Casual acquaintances
+
+<div class="notes">
+
+You will find that people from all sorts of places will end up recommending you. Don't miss a chance to let people know you are in the consulting business.
+
+## Spreading the word
+
+There's a fine line between promoting yourself and spamming.
+
+## Spreading the word, when you first open up shop
+
+"Thought you'd like to know."
+
+* Appreciate any leads.
+
+* one time only
+
+## Spreading the word, via introductions
+
+Short and sweet.
+
+* "I'm an independent statistical consultant."
+
+* Let them ask for details.
+
+<div class="notes">
+
+Whenever you meet someone, make sure they know what you do. Don't go into a long speech. A short sentence like "I'm an independent statistical consultant." is fine, but anything longer might backfire. You want them to ask you for details about your work. 
+
+</div>
+
+## Spreading the word, via emails
+
+![](images/email-settings.png)
+
+<div class="notes">
+
+Getting the word out could be as simple as putting the name of your consulting company in your email name or in your signature file.
+
+</div>
+
+## Current customers, one month after you complete your project
+
+* Ask if there are any other projects.
+
+* Ask if they know anyone else who might want a consulting statistician.
+
+## Current customers, on a semi-regular basis
+
+Find an excuse to stay in touch.
+
+* Interesting article
+
+* Any issues with previous work
+
+* Do not ask for new work
+
+<div class="notes">
+
+When you've finished an assignment, you have a bit of good will (assuming that you did a good job). Take advantage and ask for new projects and recommendations. Then try to stay in touch regularly. Don't spam them. You have to offer something that they find valuable. Be on the look out for interesting articles and websites. When you find something that you also think they might find interesting, pass it along with a note like "I really enjoyed this article (website), and I thought you might be interested also." Or if your work is being used on an on-going basis, ask how that is going.
+
+Do not ask for new work. This might be okay, but it might annoy your customer or cause him/her to treat your email like spam.
+
+</div>
+

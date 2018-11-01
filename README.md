@@ -1,11 +1,3 @@
-# repository-title-goes-here
+# finding-customers
 
-This is a single file stand-alone application using R Markdown.
-
-It was run and tested using RStudio and the knitr package.
-
-Use the file with the .Rmd extension as input, or examine the
-file with the .html extension to see what the output is like.
-
-This application does not need any special files beyond the
-ones listed above.
+This is a single file stand-alone application using R Markdown. It does not use any R code, per se, but rather serves as a way to produce a presentation that is easy to modify and archive.
