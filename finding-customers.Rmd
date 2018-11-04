@@ -34,19 +34,15 @@ By far the best way to find new customers is the "word of mouth." People want to
 
 </div>
 
-## Spread the word
-
-* Everyone you currently know is a potential referal source.
-
-* Promote, but don't spam.
-
-## Spread the word
-
-* At the job you're leaving.
+## Spread the word, everyone is a potential referral source
 
 * Your alma mater
 
+* At the job you're leaving.
+
 * Current customers (if you have them)
+
+* Other consultants
 
 * Casual acquaintances
 
@@ -55,6 +51,100 @@ By far the best way to find new customers is the "word of mouth." People want to
 You will find that people from all sorts of places will end up recommending you. Don't miss a chance to let people know you are in the consulting business.
 
 </div>
+
+## Spreading the word, at your alma mater
+
+* Faculty
+
+* Fellow students
+
+<div class="notes">
+
+Your biggest supporters will be the faculty at the school where you got your degree. Your success makes them look better.
+
+Your fellow students will disperse like dandelion seeds on the wind. They will meet lots of people and some of them might be your future clients.
+
+</div>
+
+## Spreading the word, at the job you're leaving
+
+Your co-workers are naturally curious about what you'll be doing in your new job.
+
+* Do encourage them to recommend you.
+
+* Don't poach.
+
+* Try to stay in touch.
+
+<div class="notes">
+
+If you're leaving your old job on a good note, take advantage of the good will that you will have. You have an opportunity to talk at length about your new career. Tell them about the clients you already have lined up and the types of clients that you are hoping to get.
+
+It's okay to ask for recommendations, but 
+
+</div>
+
+## Spreading the word with your current customers
+
+* At the first session
+
+* One month after completion
+
+* Semi-regularly thereafter
+
+<div class="notes">
+
+
+
+</div>
+
+* Ask if there are any other projects.
+
+* Ask if they know anyone else who might want a consulting statistician.
+
+## Current customers, on a semi-regular basis
+
+Find an excuse to stay in touch.
+
+* Interesting article
+
+* Any issues with previous work
+
+* Do not ask for new work
+
+<div class="notes">
+
+When you've finished an assignment, you have a bit of good will (assuming that you did a good job). Take advantage and ask for new projects and recommendations. Then try to stay in touch regularly. Don't spam them. You have to offer something that they find valuable. Be on the look out for interesting articles and websites. When you find something that you also think they might find interesting, pass it along with a note like "I really enjoyed this article (website), and I thought you might be interested also." Or if your work is being used on an on-going basis, ask how that is going.
+
+Do not ask for new work. This might be okay, but it might annoy your customer or cause him/her to treat your email like spam.
+
+</div>
+
+## Your fellow statisticians
+
+## Spread the word, but don't spam
+
+* Everyone you currently know is a potential referal source.
+
+* Promote, but don't spam.
+
+<div class="notes">
+
+Take some time to inform everyone you know about your new career. They'll be interested in hearing the news.
+
+But take care not to be like the party guest who refuses to leave the party, even though the hosts are tired and just want to get to bed. There's a fine line between self-promotion and spamming.
+
+</div>
+
+## Promoting yourself without spamming.
+
+There's a fine line between self-promotion and spamming. Keep yourself on the proper side by considering
+
+* timing
+
+* frequency
+
+* relevancy
 
 ## Spreading the word
 
@@ -90,54 +180,7 @@ Getting the word out could be as simple as putting the name of your consulting c
 
 </div>
 
-## Spreading the word, at the job you're leaving
-
-Your co-workers are naturally curious about what you'll be doing in your new job.
-
-* Do encourage them to recommend you.
-
-* Don't poach.
-
-* Try to stay in touch.
-
-<div class="notes">
-
-If you're leaving your old job on a good note, take advantage of the good will that you will have. You have an opportunity to talk at length about your new career. Tell them about the clients you already have lined up and the types of clients that you are hoping to get.
-
-It's okay to ask for recommendations, but 
-
-</div>
-
-## Spreading the word, at your alma mater
-
-Your biggest supporters will be the faculty at the school where you got your degree.
-
-
-## Current customers, one month after you complete your project
-
-* Ask if there are any other projects.
-
-* Ask if they know anyone else who might want a consulting statistician.
-
-## Current customers, on a semi-regular basis
-
-Find an excuse to stay in touch.
-
-* Interesting article
-
-* Any issues with previous work
-
-* Do not ask for new work
-
-<div class="notes">
-
-When you've finished an assignment, you have a bit of good will (assuming that you did a good job). Take advantage and ask for new projects and recommendations. Then try to stay in touch regularly. Don't spam them. You have to offer something that they find valuable. Be on the look out for interesting articles and websites. When you find something that you also think they might find interesting, pass it along with a note like "I really enjoyed this article (website), and I thought you might be interested also." Or if your work is being used on an on-going basis, ask how that is going.
-
-Do not ask for new work. This might be okay, but it might annoy your customer or cause him/her to treat your email like spam.
-
-</div>
-
-## Your fellow statisticians
+## Web 2.0
 
 Promoting your consulting career in the era of Web 2.0
 If you are embarking on a career as an independent statistical consultant, you have to get the word out to potential customers. There are traditional ways to do this, but there are also new ways of promoting yourself using Web 2.0. These new approaches should not replace things like giving talks and asking current customers to recommend new clients. Even so, they can be useful supplements to the things you are already doing. These new approaches are inexpensive, if not totally free, but they are labor intensive.
