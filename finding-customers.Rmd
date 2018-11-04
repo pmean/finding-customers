@@ -34,11 +34,19 @@ By far the best way to find new customers is the "word of mouth." People want to
 
 </div>
 
-## Who is likely to recommend you?
+## Spread the word
 
-* Current customers
+* Everyone you currently know is a potential referal source.
 
-* Your fellow statisticians
+* Promote, but don't spam.
+
+## Spread the word
+
+* At the job you're leaving.
+
+* Your alma mater
+
+* Current customers (if you have them)
 
 * Casual acquaintances
 
@@ -46,9 +54,9 @@ By far the best way to find new customers is the "word of mouth." People want to
 
 You will find that people from all sorts of places will end up recommending you. Don't miss a chance to let people know you are in the consulting business.
 
-## Spreading the word
+</div>
 
-There's a fine line between promoting yourself and spamming.
+## Spreading the word
 
 ## Spreading the word, when you first open up shop
 
@@ -131,3 +139,59 @@ Do not ask for new work. This might be okay, but it might annoy your customer or
 
 ## Your fellow statisticians
 
+Promoting your consulting career in the era of Web 2.0
+If you are embarking on a career as an independent statistical consultant, you have to get the word out to potential customers. There are traditional ways to do this, but there are also new ways of promoting yourself using Web 2.0. These new approaches should not replace things like giving talks and asking current customers to recommend new clients. Even so, they can be useful supplements to the things you are already doing. These new approaches are inexpensive, if not totally free, but they are labor intensive.
+
+Your goal, whether using Web 2.0 or more traditional approaches, is to build a level of familiarity with your potential customers. People don't like to hire total strangers. Sometimes they will but it is very scary. If someone knows you because they read your blog regularly, or because they follow your Twitter feeds, that reduces the fear factor somewhat. Don't forget to build that level of familiarity with your colleagues, as well. You will get many referrals from other statisticians who either aren't in the consulting business at all or who are unwilling or unable to assist in a particular consulting area. If your colleagues know of your expertise, they are more likely to refer business opportunities to you rather than someone else.
+
+There are some very effective traditional ways of promoting yourself. "Word of mouth" is the way that most consultants rely on to for getting the bulk of their customers and there are lots of ways to enhance the "word of mouth" effect. Writing articles (like this one) also can be very useful. You should consider volunteering for high visibility roles in professional organizations and giving informational seminars related to your areas of expertise. Web 2.0 tools won't replace these more traditional means of self-promotion, but they do offer new and different approaches to build familiarity and trust with your potential customers.
+
+If you're confused by Web 2.0, I am too. It is a hectic game of musical chairs (is Google+ going to replace Facebook?) and every new Web 2.0 tool touts its special unique features. In essence, Web 2.0 refers to a class of new tools for creating and sharing information on the Internet. Web 2.0 offers relative ease in creating and publishing information. Web 2.0 also makes it easy for others to comment on and enhance the material that you publish.
+
+Don't let the many insipid uses of Web 2.0 tools keep you away. Sure you can be like everyone else and keep tabs on what Paris Hilton is having for breakfast. But even if most of Web 2.0 is vain and self-indulgent, you can still find much of value here.
+
+Blogging software is the simplest example of a Web 2.0 application, and it is a very good starting point if you want to try out Web 2.0. A blog provides a straightforward way to create content, much easier than building a website from scratch. The blogging software can handle formatting and indexing for you. Some blogs even allow you to add new entries by email.  Most importantly, a blog (unlike a static website) offers your readers a chance to comment on what you've written. This is a double-edged sword, but it is mostly good.
+
+I like to think of other Web 2.0 tools as variations on a blog (Twitter, in fact, is called a micro-blogging site). So everything I say about a blog applies just as well to other Web 2.0 tools. But these Web 2.0 tools do offer important features beyond a blog. The most common extra feature is the ability to create or join communities of people with similar interests. This is useful for your professional development (e.g., getting your data mining questions answered on a data mining group on LinkedIn) but if you regularly provide useful  resources for others as well, you develop an aura of expertise and you build up your name recognition. Whatever Web 2.0 tool you use, keep these three adjectives in mind: focused, fresh, and fun.
+
+Focused. Think carefully about what you will blog about. A wide ranging blog about anything and everything is likely to be too diffuse to be of interest. It will also be difficult to build up a critical mass of content when you tackle too broad a range of topics.
+
+Focus is good, but where should you place your focus? Pick something that helps establish your credibility as an expert in a particular area, of course, but more importantly, find an under-served niche. There are 393 R bloggers (www.r-bloggers.com), so you won't get much notice if you become the 394th blogger. If you must blog about R, pick a specialization within R, such as GIS applications, or you'll get lost in the crowd.
+
+Raynauld Levesque found an underserved niche when he developed a website about SPSS (http://www.spsstools.net). It wasn't a general site about SPSS, but rather a site about syntax and macros in SPSS. His site became to "go to" site for the really tough problems in SPSS that required macro solutions. Other people started contributing macros to his site. What a wonderful success you have achieved when your site gets fresh content from your readers.
+
+Michael Chernick developed a different niche. He produced reviews of Statistics textbooks for Amazon (http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ). He has reviewed over 600 books and his reviews are always informative. It's impossible to look on Amazon for advanced applications in Statistics without repeatedly seeing his name next to a detailed review.
+
+Focus also applies to the Web 2.0 tools that you choose to use. Select one tool as your primary focus and if you use others, use them mostly to supplement and support that primary focus. So, for example, focus mostly on a blog and use Twitter to update people when a new blog post appears. Or focus on Twitter, and use your blog as an archive for your tweets. There are many tools that help you update multiple Web 2.0 sites simultaneously. LinkedIn, for example, offers you the option of sharing updates on Twitter as well. But even with this type of assistance, you run the risk of spreading yourself too thinly.
+
+Fresh. You need to provide regular entries. It doesn't matter whether you write every other day or every other week, but make the commitment to update on a regular and predictable pattern. Don't start out too fast. You'll burn yourself out, but you'll also raise a level of expectation from your readers that you won't be able to maintain. Freshness is even more critical for Facebook and Twitter. Old posts and tweets fade into the background more quickly than a blog entry would. If you can't make the commitment to visit a Web 2.0 site and update things regularly, leave that site off your list entirely rather than make a half-hearted effort.
+
+Your Web 2.0 entries can be original content, or they can be commentary on other resources. If you write your own original content, keep it short and sweet, both for your sake and for the sake of your readers. This is a free sample, and if you spend all your time on blog entries, you won't have time for your paying customers. Also, people who go looking for your content on the web aren't usually interested in a lengthy dissertation. Write enough to do the topic justice, but no more.
+
+If you provide commentary on other resources, do take the time to add something more descriptive than "Hey look at this interesting website I just found." No one likes to click on a link without first getting a hint as to what they will see when they reach that site.
+
+For commentary, Facebook does an even better job than a blog because it automatically includes a thumbnail of one of the graphic images from the web page you are linking to. Better still, your Facebook posts will also include your picture (be sure you have a good Facebook picture). Repeated reminders of what you look like goes a long way to making people more comfortable with who you are.
+
+You should also consider using Web 2.0 tools to aggregate other people's content. The Internet is a huge place, and you can provide a great service by providing a "one stop shopping" spot for your readers. I come across Statistics events in the Kansas City area (ASA chapter meetings, local university seminars, R and SAS user group events, etc.) from a variety of sources and I was constantly losing track of what was happening when. Partly for my own benefit, but also for others, I set up a web page (http://www.pmean.com/kcstats.html) with general contact information for each group and announcements of upcoming events. With a bit of work, I could set up a reminder tweets that would provide notice 24 hours in advance of these events.
+
+Twitter gets a lot of criticism for the 140 character limit, and it clearly is not the Web 2.0 tool for expounding on the recent advances in hierarchical models. But for simple announcements (like KC stats events), it is an excellent choice. Tweets are easily followed on your smartphone, an ideal platform for this type of information.
+Fun. Make your blog fun for you and it will become fun for your readers. Make sure that you have some passion for what you are writing about. If it seems like a chore, you won't have enough motivation to contribute regularly and your readers will pick up on your tone.
+
+This applies double for the Web 2.0 tools that you choose to use. Don't use Web 2.0 tools that you find annoying. Twitter is wildly popular, but if you chafe at its 140 character limit, dump Twitter. Facebook and LinkedIn have their competing partisans and if you find yourself taking sides, that's okay. Some people love the informality of Facebook and cringe at the stodgy nature of LinkedIn. Others find Facebook to be vapid and self-centered and prefer the professional demeanor of LinkedIn. Use what you're comfortable with and ignore anything else. Just because you adopt one Web 2.0 tool does not mean you are obligated to recreate a similar presence on all the other Web 2.0 tools.
+
+Talk directly to your readers. You should try as much as possible to use the pronoun "you" rather than the pronoun "I" or the dreaded passive voice. Your blog is not the place to establish an aura of objectivity by adopting an encyclopedic tone.
+
+Encourage your readers to talk back to you. Part of the value of a blog is that your readers can post comments on your blog posts. This can be scary, but these comments can add great value. Your readers  will feel a better emotional connection to you and see you as more as a colleague and peer. Stay vigilant, though, and remove off-topic or off-color responses. Bad commentary will reflect poorly on you.
+
+Some people advocate keeping your personal life separate from your professional life, but I think it works to your advantage to share a little bit about yourself, your family, your hobbies, and your travels. It tends to humanize you and make you seem less of a stranger. Don't flood Facebook with hundreds of pictures of your cute dog, though. Your true friends will endure this and even pretend that they adore your dog as much as you do. But your professional contacts won't be so charitable.
+
+Some cautions. Use Web 2.0 tools too aggressively and it can backfire. While some self-promotion is okay, it's a fine line. You don't want to act like the stereotypical insurance salespeople who are constantly badgering all of their friends to buy more insurance. A good ratio to start at is one blog post directly promoting your consulting career for every ten blog posts that do not.
+
+Be even more cautious about self-promotion on Facebook and LinkedIn. These sites often evolve community standards about what is acceptable and what is not. These standards are often tacit and they can vary greatly across different sites. Even within a Web 2.0 site there is substantial variation on what constitutes excessive self-promotion. The best thing to do is to watch how others behave and emulate them. If someone complains, apologize profusely and publicly. The worst thing you can do is argue, even if the complaint is unfounded. Let others in the community come to your defense if someone tries to enforce a standard more rigid that what the community as a whole prefers.
+One final caution is to not spend too much time with Web 2.0 tools. These are usually very cheap and often free, but the trade-off is it takes time to produce information of enduring value. Don't skimp on your time, but you have to place limits, or these efforts will suck away your whole life.
+
+Summary. Web 2.0 tools shouldn't replace more traditional means of promotion, but they can help. If you use Web 2.0, be sure that you make your content focused, fresh, and fun.
+
+Have you used Web 2.0 tools? I'd love to hear what was worked well for you and what hasn't.
+
+Steve Simon is a part-time independent statistical consultant and part-time faculty member at the University of Missouri-Kansas City. He has a web site (www.pmean.com), a Facebook account (www.facebook.com/pmean), a LinkedIn account (www.linkedin.com/in/pmean) and a Twitter feed (@ProfMean). He publishes The Monthly Mean, the email newsletter that dares to call itself average (www.pmean.com/news).
