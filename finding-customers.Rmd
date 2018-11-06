@@ -6,7 +6,7 @@ output: powerpoint_presentation
 
 ## Abstract
 
-If you want to set up your own consulting business, you need to get the word out to potential customers. There are traditional ways to do this, but there are also new ways of improving your visibility using social media. This webinar will compare and contrast the traditional approaches (such as giving talks and volunteering) to “old school” Internet (such as websites and email newsletters) to social media (such as Facebook and Twitter). 
+If you want to set up your own consulting business, you need to get the word out to potential customers. This webinar will compare and contrast the traditional approaches (such as giving talks and volunteering) to “old school” Internet (such as websites and email newsletters) to social media (such as Facebook and Twitter). 
 
 <div class="notes">
 
@@ -42,9 +42,7 @@ By far the best way to find new customers is the "word of mouth." People want to
 
 * Current customers (if you have them)
 
-* Other consultants
-
-* Casual acquaintances
+* Other statisticians
 
 <div class="notes">
 
@@ -58,127 +56,230 @@ You will find that people from all sorts of places will end up recommending you.
 
 * Fellow students
 
+* Satisfy their natural curiosity
+
+* Staying in touch emails
+
+
+
 <div class="notes">
 
 Your biggest supporters will be the faculty at the school where you got your degree. Your success makes them look better.
 
 Your fellow students will disperse like dandelion seeds on the wind. They will meet lots of people and some of them might be your future clients.
 
+Both groups will be naturally curious and will not at all mind hearing about this new career you're starting in consulting.
+
+You should also find a way to stay in regular touch with them.
+
 </div>
 
 ## Spreading the word, at the job you're leaving
 
-Your co-workers are naturally curious about what you'll be doing in your new job.
+* Satisfy their natural curiosity.
 
 * Do encourage them to recommend you.
 
 * Don't poach.
 
-* Try to stay in touch.
+* "Staying in touch" emails.
 
 <div class="notes">
 
-If you're leaving your old job on a good note, take advantage of the good will that you will have. You have an opportunity to talk at length about your new career. Tell them about the clients you already have lined up and the types of clients that you are hoping to get.
+If you're leaving your old job on a good note, take advantage of the good will that you will have. Your . You have an opportunity to talk at length about your new career. Tell them about the clients you already have lined up and the types of clients that you are hoping to get.
 
-It's okay to ask for recommendations, but 
+It's okay to ask for recommendations, but beware of poaching (stealing business from your old company). Look for a "non-compete" clause in your hiring contract.
 
 </div>
 
-## Spreading the word with your current customers
+## Spreading the word, with your current customers
+
+You may already have a few customers in the queue. If you do, take advantage of them as possible
 
 * At the first session
 
-* One month after completion
+* One week/one month after completion
 
-* Semi-regularly thereafter
+* "Staying in touch" emails
 
-<div class="notes">
-
-
-
-</div>
-
-* Ask if there are any other projects.
-
-* Ask if they know anyone else who might want a consulting statistician.
-
-## Current customers, on a semi-regular basis
-
-Find an excuse to stay in touch.
-
-* Interesting article
-
-* Any issues with previous work
-
-* Do not ask for new work
+* Ask for repeat business.
 
 <div class="notes">
 
-When you've finished an assignment, you have a bit of good will (assuming that you did a good job). Take advantage and ask for new projects and recommendations. Then try to stay in touch regularly. Don't spam them. You have to offer something that they find valuable. Be on the look out for interesting articles and websites. When you find something that you also think they might find interesting, pass it along with a note like "I really enjoyed this article (website), and I thought you might be interested also." Or if your work is being used on an on-going basis, ask how that is going.
+When you get a new customer, ask how they heard about you. If it was from an acquantance, send that person a thank you note.
 
-Do not ask for new work. This might be okay, but it might annoy your customer or cause him/her to treat your email like spam.
+Wait a short time after completing your final report. "Just following up. Are you still happy with my work? Do you know anyone else who might want to hire me?"
+
+Find an excuse every month or so to send a "staying in touch" email. I'll give some examples a bit later in this talk.
+
+Less frequently, you might ask how things are going and if there is anything new that you might be able to help with.
 
 </div>
 
-## Your fellow statisticians
+## Spreading the word, with your fellow statisticians
 
-## Spread the word, but don't spam
+Your fellow statisticians might send you business because
 
-* Everyone you currently know is a potential referal source.
+* they can't consult,
 
-* Promote, but don't spam.
+* they don't want to consult,
+
+* they want to consult, but not for this client.
 
 <div class="notes">
 
-Take some time to inform everyone you know about your new career. They'll be interested in hearing the news.
+You should never think of other statisticians as competing for your business. For me, they have been a regular source of referrals. They might not be able to consult themselves because of job restrictions, but they still want to help them out (and you at the same time). 
 
-But take care not to be like the party guest who refuses to leave the party, even though the hosts are tired and just want to get to bed. There's a fine line between self-promotion and spamming.
+Even if they are in the business themselves, they may not feel qualified to handle a particular problem.
+
+Or they might not like a particular type of client. I get a lot of referrals for PhD candidates who need a bit of help for their dissertation. Their committee needs to okay my involvement, but usually both they and the candidate are happy to get some help. Ph.D. candidates are a poor revenue source (they have short-term needs and are unlikely to provide repeat business). But I still like working with them, and appreciate anyone who can send these types of clients my way.
 
 </div>
 
-## Promoting yourself without spamming.
+## Promoting yourself without 
+
+![](images/spam_can.png)
+
+<div class="notes">
 
 There's a fine line between self-promotion and spamming. Keep yourself on the proper side by considering
 
-* timing
+* timing (when and how often)
 
-* frequency
+* relevancy (is there something of value to them?)
 
-* relevancy
-
-## Spreading the word
-
-## Spreading the word, when you first open up shop
-
-"Thought you'd like to know."
-
-* Appreciate any leads.
-
-* one time only
-
-## Spreading the word, via introductions
-
-Short and sweet.
-
-* "I'm an independent statistical consultant."
-
-* Let them ask for details.
-
-<div class="notes">
-
-Whenever you meet someone, make sure they know what you do. Don't go into a long speech. A short sentence like "I'm an independent statistical consultant." is fine, but anything longer might backfire. You want them to ask you for details about your work. 
+* restraint (keep it short and sweet)
 
 </div>
 
-## Spreading the word, via emails
+## Introductions or re-introductions
+
+* Mention the word "consultant" but otherwise keep it short.
+
+* Wait for them to ask for more details.
+
+<div class="notes">
+
+When I introduce myself: "I have three jobs. I work part-time in the Department of Biomedical and Health Informatics at UMKC. I am supported on a grant with Enterprise Analytics at KUMC. I'm also an independent statistical consultant."
+
+If you get an inquiring response, tell them about the types of clients you have, or the types of analyses you do. Keep it short and sweet, again. "Most of my clients are Ph.D. candidates. I handle just about anyone: education, psychology, social work, just to name a few."
+
+</div>
+
+## Simple email settings.
 
 ![](images/email-settings.png)
 
 <div class="notes">
 
-Getting the word out could be as simple as putting the name of your consulting company in your email name or in your signature file.
+Getting the word out could be as simple as putting the name of your consulting company in your email name or in your signature file. Avoid a long signature file.
 
 </div>
+
+## "Just staying in touch" emails.
+
+An occasional email from you helps keep you in the forefront of the thoughts of faculty, fellow students, old co-workers, and old clients.
+
+* Find something of value to them and share it.
+
+* Infrequent, but regular.
+
+<div class="notes">
+
+Always keep an eye open for interesting stuff: articles, websites, news. Send it along with a comment like "I saw this and thought of you." or "This is an interesting analysis that is similar to what we worked on."
+
+Do this monthly or less frequently, but do it regularly. Don't ask directly for referrals. Think of it as a way to make yourself unforgettable.
+
+</div>
+
+## Business cards
+
+* Always have a business card available to hand out.
+
+* Gratefully accept and business cards you get.
+
+* Write a few words on the back
+
+* Follow up at least once with a brief email.
+
+<div class="notes">
+
+Keep a stack of business cards handy that mention that you are a consultant and that provides contact information, such as mailing address, phone number, email, and website. Aslo mention, if you have them, your Twitter handle, LinkedIn account, etc. 
+
+Before you hand your business card to someone, write a few words on the back and write a brief note to yourself on the back of any card you get. This will remind them and you of the context in which the cards were exchanged.
+
+You should also remember that no one who gives you a business card can complain if you send one email to them, so make a point of saying something short and sweet within a few days receiving their card. Remind them again of the context in which you exchanged cards and offer them something of value, if you can.
+
+"I enjoyed chatting with you at the R Users Group. I wanted to share a copy of the paper where I talk about the new R package that I wrote."
+
+</div>
+
+
+
+## Expanding the number of people who know you
+
+If you can find a way to become famous, you will get a lot more referrals.
+
+* Traditional approaches
+
+* "Old school" internet
+
+* Social media (Web 2.0)
+
+<div class="notes">
+
+While taking advantage of faculty, fellow students, co-workers, etc. is a good idea, you also want to get your name out among people who don't know you.
+
+There are several easy things you can do that can help make you famous. These can be broadly classified into traditional (non-Interent) approaches, old school Internet, and new school Internet, commonly called social media or Web 2.0.
+
+All of these approaches cost next to nothing, but they are labor intensive.
+
+</div>
+
+## Traditional approaches
+
+* Talking
+
+* Writing
+
+* Volunteering
+
+<div class="notes">
+
+If you know something, talk about it. Talk at statistics gatherings, because fellow statisticians are a great referral source. But also talk before groups who might be potential clients.
+
+Write up a brief introduction that you can offer to the person introducing you. Make sure it includes the fact that you are a consultant.
+
+Writing articles is also a good way to get known, and the articles don't have to be peer-reviewed. Write for places that might be read by your fellow statisticians, but write for places read by potential clients.
+
+Volunteering is another way to enhance your visibility. I am currently the President of the Kansas City R Users Group, and people make the assumption that someone with that title must know more about R than anyone else in the Kansas City area. This is most definitely not true, but I will not disabuse anyone of that false assumption.
+
+Don't volunteer for something and then do a lousy job. You'll get a lot of negative publicity.
+
+</div>
+
+## "Old school" Internet
+
+Applications of Internet technologies developed in the prior century. Largely considered obsolete, but still valuable.
+
+* Email newsletters
+
+* Web sites
+
+<div class="notes">
+
+Even though everyone talks about the latest social media application, the "old school" Internet technologies: email and the World Wide Web are still useful tools.
+
+An email newsletter provides a regular set of short articles distributed by email. Be sure to spend a bit of money on a professional vendor of email distribution software (Emma, Constant Contact). The well-known name, the opt-in subscription page, and the standard footer allowing unsubscription will help you avoid the perception that you are spamming people. 
+
+A static website is also very helpful. It can be as simple as a single page with contact information. Think of it as an electronic version of your business card.
+
+
+
+The first wave of Internet applications included email and static websites. These differ from the highly interactive nature of social media, but they still can be valuable resources.
+
+There was a time before email was common and before everyone surfed the web. These technologies revolution
+
 
 ## Web 2.0
 
