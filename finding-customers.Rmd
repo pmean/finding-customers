@@ -18,9 +18,13 @@ I won't read this whole abstract, but to get customers, you have to get "known."
 
 The key to all three approaches is that you give away small samples of what you know for free to establish your credibility and build up a network of contacts.
 
+* These slides are available at http://github.com/pmean/finding-customers.
+
 <div class="notes">
 
 The commonality of all these approaches is that they are free from a money standpoint, but do require an investment of time.
+
+Before I dive into this talk, I should mention that these slides were produced using R Markdown. It's silly to use R Markdown for a presentation that includes no R code or output, but I like how R Markdown allows me to work from a plain text file. You can find the R Markdown code, the image files, and the Powerpoint file on the github site listed above.
 
 </div>
 
@@ -32,9 +36,11 @@ The commonality of all these approaches is that they are free from a money stand
 
 By far the best way to find new customers is the "word of mouth." People want to hire someone that they know and trust. If they don't have anyone, they will ask an acquaintance or colleague who they know and trust. You want be the first person that this acquaintance or colleague thinks of when they are asked this question.
 
+This talk will be split into two parts. The first half is taking advantage of the network of people you already have and the second half is expanding the network of people who know you.
+
 </div>
 
-## Spread the word, everyone is a potential referral source
+## Spread the word to everyone you already know
 
 * Your alma mater
 
@@ -68,7 +74,7 @@ Your fellow students will disperse like dandelion seeds on the wind. They will m
 
 Both groups will be naturally curious and will not at all mind hearing about this new career you're starting in consulting.
 
-You should also find a way to stay in regular touch with them.
+You should also find a way to stay in regular touch with them (more about that later).
 
 </div>
 
@@ -84,7 +90,7 @@ You should also find a way to stay in regular touch with them.
 
 <div class="notes">
 
-If you're leaving your old job on a good note, take advantage of the good will that you will have. Your . You have an opportunity to talk at length about your new career. Tell them about the clients you already have lined up and the types of clients that you are hoping to get.
+If you're leaving your old job on a good note, take advantage of the good will that you will have. People are naturally curious, so you have an opportunity to talk at length about your new career. Tell them about the clients you already have lined up and the types of clients that you are hoping to get.
 
 It's okay to ask for recommendations, but beware of poaching (stealing business from your old company). Look for a "non-compete" clause in your hiring contract.
 
@@ -100,17 +106,17 @@ You may already have a few customers in the queue. If you do, take advantage of 
 
 * "Staying in touch" emails
 
-* Ask for repeat business.
+* Ask (but not too frequently) for repeat business
 
 <div class="notes">
 
-When you get a new customer, ask how they heard about you. If it was from an acquantance, send that person a thank you note.
+When you get a new customer, ask how they heard about you. If it was from an acquaintance, send that person a thank you note.
 
 Wait a short time after completing your final report. "Just following up. Are you still happy with my work? Do you know anyone else who might want to hire me?"
 
 Find an excuse every month or so to send a "staying in touch" email. I'll give some examples a bit later in this talk.
 
-Less frequently, you might ask how things are going and if there is anything new that you might be able to help with.
+Less frequently (one in ten rule, discussed in a bit), you might ask how things are going and if there is anything new that you might be able to help with.
 
 </div>
 
@@ -140,13 +146,69 @@ Or they might not like a particular type of client. I get a lot of referrals for
 
 <div class="notes">
 
-There's a fine line between self-promotion and spamming. Keep yourself on the proper side by considering
+The image on this page was found at https://commons.wikimedia.org/wiki/File:Spam_can.png and is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
 
-* timing (when and how often)
+</div>
 
-* relevancy (is there something of value to them?)
+## Promoting yourself
 
-* restraint (keep it short and sweet)
+To avoid the perception of spam, keep the following in mind:
+
+* Timing (when and how often). 
+
+* Relevancy (is there something of value to them?). 
+
+* Restraint (keep it short and sweet). 
+
+<div class="notes">
+
+There's a fine line between self-promotion and spamming. Try your hardest to stay on the right side of the line. You don't want people to start tuning out your message because it is too frequent, too lengthy, and not relevant to their needs and interests.
+
+</div>
+
+## Timing
+
+* Best at times of transition
+
+  + Graduating
+  
+  + Leaving a job
+  
+  + Completing a big consulting project.
+
+* Keep in touch, but not too often.
+
+<div class="notes">
+
+We've talked a bit already about timing. Curiosity is highest when you are graduating or when you are leaving your current job, so you have the opportunity to talk at length about what type of consulting clients you are hoping to attract. Keep in touch but don't pound them with emails. Try to avoid sending something more often than once a month. With current clients, the start of a new project and the end of new project is a great time to communicate.
+
+</div>
+
+## Relevancy
+
+* Give your clients what THEY want, not what YOU want.
+
+* Your goal is to be "unforgettable".
+
+* Rule of one in ten for self promotion.
+
+<div class="notes">
+
+People don't mind emails if it includes something they want. You get almost as much accomplished by keeping your name in their short term memory than if you send out a blatant promotion of yourself without the risk of turning people off. You might get away with a brief email "I'm still looking for clients for my consulting business. Do you know anybody" once in a while but the rule of thumb is ten emails without any self-promotion for every self-promoting email.
+
+</div>
+
+## Restraint
+
+* As short as you can get.
+
+* Wait for a prompt before divulging lots of details.
+
+<div class="notes">
+
+There's a lot that you want to say about your consulting business, but those messages are more effective if they come after prompting. "I'm in consulting" "Oh what do you do?" will lead to a more productive exchange than "I'm a consultant. I specialize in statistical analyses involving health care issues. I'm looking for work involving both the planning and the analysis of clinical trials." 
+
+The image on this page was found at https://commons.wikimedia.org/wiki/File:Spam_can.png and is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
 
 </div>
 
@@ -186,7 +248,7 @@ An occasional email from you helps keep you in the forefront of the thoughts of 
 
 Always keep an eye open for interesting stuff: articles, websites, news. Send it along with a comment like "I saw this and thought of you." or "This is an interesting analysis that is similar to what we worked on."
 
-Do this monthly or less frequently, but do it regularly. Don't ask directly for referrals. Think of it as a way to make yourself unforgettable.
+Do this monthly or less frequently, but do it regularly. Most of the time, don't ask directly for referrals (one in ten rule). Think of it as a way to make yourself unforgettable.
 
 </div>
 
@@ -194,7 +256,7 @@ Do this monthly or less frequently, but do it regularly. Don't ask directly for 
 
 * Always have a business card available to hand out.
 
-* Gratefully accept and business cards you get.
+* Gratefully accept any business cards you get.
 
 * Write a few words on the back
 
@@ -206,13 +268,13 @@ Keep a stack of business cards handy that mention that you are a consultant and 
 
 Before you hand your business card to someone, write a few words on the back and write a brief note to yourself on the back of any card you get. This will remind them and you of the context in which the cards were exchanged.
 
-You should also remember that no one who gives you a business card can complain if you send one email to them, so make a point of saying something short and sweet within a few days receiving their card. Remind them again of the context in which you exchanged cards and offer them something of value, if you can.
+A business card is a "one spam for free" card. No one who gives you a business card can complain if you send ONE email to them, so make a point of saying something short and sweet within a few days receiving their card. Remind them again of the context in which you exchanged cards and offer them something of value, if you can. Or ask for something of value (e.g., a copy of slides from their talk).
 
 "I enjoyed chatting with you at the R Users Group. I wanted to share a copy of the paper where I talk about the new R package that I wrote."
 
+Sending an email puts your email in the other person's email folder, in case they lose your card. You also have their email in your SENT folder in case you lose their card.
+
 </div>
-
-
 
 ## Expanding the number of people who know you
 
@@ -222,13 +284,13 @@ If you can find a way to become famous, you will get a lot more referrals.
 
 * "Old school" internet
 
-* Social media (Web 2.0)
+* Social Media (Web 2.0)
 
 <div class="notes">
 
 While taking advantage of faculty, fellow students, co-workers, etc. is a good idea, you also want to get your name out among people who don't know you.
 
-There are several easy things you can do that can help make you famous. These can be broadly classified into traditional (non-Interent) approaches, old school Internet, and new school Internet, commonly called social media or Web 2.0.
+There are several easy things you can do that can help make you famous. These can be broadly classified into traditional (non-Interent) approaches, old school Internet, and new school Internet, commonly called Social Media or Web 2.0.
 
 All of these approaches cost next to nothing, but they are labor intensive.
 
@@ -246,15 +308,51 @@ You don't need an Internet presence to become well known.
 
 <div class="notes">
 
-People became famous before the Internet came along. They didn't need to "friend" several hundred people. They didn't need have their tweets retweeted. They didn't have to go viral.
+People became famous before the Internet came along. They didn't need to "friend" several hundred people. They didn't need have their tweets retweeted. They didn't have to go viral. You can promote yourself the old fashioned way, by talking, writing, and volunteering.
 
-You can promote yourself the old fashioned way, by talking, writing, and volunteering.
+</div>
+
+## Talking
+
+* Statistical talks for statisticians.
+
+* Statistical talks for non-statisticians.
+
+* Speak up (helpful questions) at other people's talks.
+
+<div class="notes">
 
 If you know something, talk about it. Talk at statistics gatherings, because fellow statisticians are a great referral source. But also talk before groups who might be potential clients.
 
 Write up a brief introduction that you can offer to the person introducing you. Make sure it includes the fact that you are a consultant.
 
-Writing articles is also a good way to get known, and the articles don't have to be peer-reviewed. Write for places that might be read by your fellow statisticians, but write for places read by potential clients.
+You also have an opportunity to talk at other people's presentations. Try to ask a helpful question during the talk or (better yet) right after the talk ends. If you are interested in their work, ask for a copy of their presentation.
+
+</div>
+
+## Writing
+
+* Articles do not have to be peer-reviewed
+
+* General or tutorial articles
+
+* What do your customers read?
+
+<div class="notes">
+
+Writing articles is also a good way to get known, and the articles don't have to be peer-reviewed. General or tutorial artices might have as much or more of an impact than high-end research. Write for places that might be read by your fellow statisticians, but also write for places read by potential clients.
+
+</div>
+
+## Volunteering
+
+* Help run an organization that relates to your skills and talents.
+
+* Easy way for introverts to interact with strangers.
+
+* Only volunteer if you have the time to do the job well.
+
+<div class="notes">
 
 Volunteering is another way to enhance your visibility. I am currently the President of the Kansas City R Users Group, and people make the assumption that someone with that title must know more about R than anyone else in the Kansas City area. This is most definitely not true, but I will not disabuse anyone of that false assumption.
 
@@ -278,11 +376,13 @@ Even though everyone talks about the latest social media application, the "old s
 
 An email newsletter provides a regular set of short articles distributed by email. Be sure to spend a bit of money on a professional vendor of email distribution software (Emma, Constant Contact). The well-known name, the opt-in subscription page, and the standard footer allowing unsubscription will help you avoid the perception that you are spamming people. 
 
-There are many interesting email discussion groups, though these have to some extent been supplanted by web based discussion groups like Stack Overflow, but they still work the same way. Find a group where you can both ask and answer questions. A group where you only ask questions won't help you establish your authority. A group where you only answer questions will seem tedious after a while.
+There are many interesting email discussion groups, though these have to some extent been supplanted by web based discussion groups like Stack Overflow, but they still work the same way. Find a group where you can both ask and answer questions. A group where you only ask questions won't help you establish your authority. A group where you only answer questions will seem tedious after a while. Rule of thumb: answer four questions for every one question that you pose.
 
 A static website is also very helpful. It can be as simple as a single page with contact information. Think of it as an electronic version of your business card.
 
-## Web 2.0
+</div>
+
+## Web 2.0, what is it?
 
 The hallmark of social media/Web 2.0 is a much higher degree of interactivity.
 
@@ -294,20 +394,35 @@ The hallmark of social media/Web 2.0 is a much higher degree of interactivity.
 
 * Many others.
 
-Pick a primary area and use other areas to supplement your primary area.
-
 <div class="notes">
 
 If you're confused by Web 2.0, I am too. It is a hectic game of musical chairs (is Google+ going to replace Facebook?) and every new Web 2.0 tool touts its special unique features. In essence, Web 2.0 refers to a class of new tools for creating and sharing information on the Internet. Web 2.0 offers relative ease in creating and publishing information. Web 2.0 also makes it easy for others to comment on and enhance the material that you publish.
-
 
 Around the turn of the century, the Internet got a lot more interactive, and you will find communities that develop content collectively rather than a solo author putting up a series of articles.
 
 These new approaches offer a sense of immediacy, but I find that they, at the same time, offer a lack of permanence. But lots of people have gotten good mileage out of these social media sites.
 
+</div>
+
+## How Web 2.0 helps
+
+What does Social Media or Web 2.0 help with?
+
+* Build a sense of familiarity.
+
+* Self promotion is a bit easier with Social Media
+
+* Don't try to do it all.
+
+<div class="notes">
+
 There is a lot of insipid stuff on social media, but that should not scare you away. A lot of people are using social media effectively to make a name for themselves and to promote their works.
 
 Your goal, whether using Web 2.0 or more traditional approaches, is to build a level of familiarity with your potential customers. People don't like to hire total strangers. Sometimes they will but it is very scary. If someone knows you because they read your blog regularly, or because they follow your Twitter feeds, that reduces the fear factor somewhat.
+
+This is really no different than why you use talking, writing, and volunteering.
+
+One of the nice things about social media is that a bit of bragging is the norm. So you can say. "I just started a diet and lost three pounds in the first week." Take advantage of this and brag about things like "I just gave a webinar for the American Statistical Association on finding customers for your statistical consulting practice. Got a lot of interesting comments and questions." I think that the reason you can get away with a bit more is that people come to Social Media sites when (and only when) they are interested in things. 
 
 </div>
 
@@ -325,53 +440,97 @@ My recommendation for a primary area to promote your consulting business is a bl
 
 I like blogging and I see that this is one of the best approaches to get some recognition. A blog requires regular work. Make a commitment: one post every other day or two per month. The frequency is not as important as the regularity. Don't do a flurry of posts and then burn out.
 
-If you are early in your career, you may have difficulty with writing good content for your blog. Don't let this stop you. An easy, and very valuable thing that anyone, even a beginner can do is to recommend interesting resources. Include a brief summary in your own words so people know what they are clicking on. Do this often enough in one area and you will have a very nice electronic version of an annotated bibliography.
+Blogging software is the simplest example of a Web 2.0 application, and it is a very good starting point if you want to try out Web 2.0. A blog provides a straightforward way to create content, much easier than building a website from scratch. The blogging software can handle formatting and indexing for you. Some blogs even allow you to add new entries by email.  Most importantly, a blog (unlike a static website) offers your readers a chance to comment on what you've written. This is a double-edged sword, but it is mostly good.
 
 </div>
 
-## Develop a focus
+## Blogs are not your only choice
 
-Whatever you choose, try to make your work stand out.
+* Look for communities with interests similar to yours
 
-* Raynauld Levesque
+* Contribute content of value
 
-* Michael Chernick
+* Don't try to master everything
+
 
 <div class="notes">
 
-Raynauld Levesque found an underserved niche when he developed a website about SPSS (http://www.spsstools.net). It wasn't a general site about SPSS, but rather a site about syntax and macros in SPSS. His site became to "go to" site for the really tough problems in SPSS that required macro solutions. Other people started contributing macros to his site. What a wonderful success you have achieved when your site gets fresh content from your readers.
+I like to think of other Web 2.0 tools as variations on a blog (Twitter, in fact, is called a micro-blogging site). So everything I say about a blog applies just as well to other Web 2.0 tools. But these Web 2.0 tools do offer important features beyond a blog. The most common extra feature is the ability to create or join communities of people with similar interests. This is useful for your professional development (e.g., getting your data mining questions answered on a data mining group on LinkedIn) but if you regularly provide useful  resources for others as well, you develop an aura of expertise and you build up your name recognition.
 
-Michael Chernick developed a different niche. He produced reviews of Statistics textbooks for Amazon (http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ). He has reviewed over 600 books and his reviews are always informative. It's impossible to look on Amazon for advanced applications in Statistics without repeatedly seeing his name next to a detailed review.
+You can't master every possible Social Media platform. Pick a primary area and use other areas to supplement your primary area. For example, put your best stuff on a blog and then use Twitter to announce when you've posted something on your blog.
 
 
-If you're confused by Web 2.0, I am too. It is a hectic game of musical chairs (is Google+ going to replace Facebook?) and every new Web 2.0 tool touts its special unique features. In essence, Web 2.0 refers to a class of new tools for creating and sharing information on the Internet. Web 2.0 offers relative ease in creating and publishing information. Web 2.0 also makes it easy for others to comment on and enhance the material that you publish.
+</div>
 
-Don't let the many insipid uses of Web 2.0 tools keep you away. Sure you can be like everyone else and keep tabs on what Paris Hilton is having for breakfast. But even if most of Web 2.0 is vain and self-indulgent, you can still find much of value here.
+## Your content
 
-Blogging software is the simplest example of a Web 2.0 application, and it is a very good starting point if you want to try out Web 2.0. A blog provides a straightforward way to create content, much easier than building a website from scratch. The blogging software can handle formatting and indexing for you. Some blogs even allow you to add new entries by email.  Most importantly, a blog (unlike a static website) offers your readers a chance to comment on what you've written. This is a double-edged sword, but it is mostly good.
+When you create content on the Internet, keep it
 
-I like to think of other Web 2.0 tools as variations on a blog (Twitter, in fact, is called a micro-blogging site). So everything I say about a blog applies just as well to other Web 2.0 tools. But these Web 2.0 tools do offer important features beyond a blog. The most common extra feature is the ability to create or join communities of people with similar interests. This is useful for your professional development (e.g., getting your data mining questions answered on a data mining group on LinkedIn) but if you regularly provide useful  resources for others as well, you develop an aura of expertise and you build up your name recognition. Whatever Web 2.0 tool you use, keep these three adjectives in mind: focused, fresh, and fun.
+* fresh,
 
-Focused. Think carefully about what you will blog about. A wide ranging blog about anything and everything is likely to be too diffuse to be of interest. It will also be difficult to build up a critical mass of content when you tackle too broad a range of topics.
+* focussed, and
 
-Focus is good, but where should you place your focus? Pick something that helps establish your credibility as an expert in a particular area, of course, but more importantly, find an under-served niche. There are 393 R bloggers (www.r-bloggers.com), so you won't get much notice if you become the 394th blogger. If you must blog about R, pick a specialization within R, such as GIS applications, or you'll get lost in the crowd.
+* fun.
 
-Focus also applies to the Web 2.0 tools that you choose to use. Select one tool as your primary focus and if you use others, use them mostly to supplement and support that primary focus. So, for example, focus mostly on a blog and use Twitter to update people when a new blog post appears. Or focus on Twitter, and use your blog as an archive for your tweets. There are many tools that help you update multiple Web 2.0 sites simultaneously. LinkedIn, for example, offers you the option of sharing updates on Twitter as well. But even with this type of assistance, you run the risk of spreading yourself too thinly.
+<div class="notes">
+
+The most labor intensive part of social media is creating compelling content. What you write needs to be fresh, focussed, and fun.
+
+</div>
+
+## Fresh
+
+* Regular entries.
+
+* Short and sweet
+
+* Highlight interesting resources
+
+<div class="notes">
 
 Fresh. You need to provide regular entries. It doesn't matter whether you write every other day or every other week, but make the commitment to update on a regular and predictable pattern. Don't start out too fast. You'll burn yourself out, but you'll also raise a level of expectation from your readers that you won't be able to maintain. Freshness is even more critical for Facebook and Twitter. Old posts and tweets fade into the background more quickly than a blog entry would. If you can't make the commitment to visit a Web 2.0 site and update things regularly, leave that site off your list entirely rather than make a half-hearted effort.
 
-Your Web 2.0 entries can be original content, or they can be commentary on other resources. If you write your own original content, keep it short and sweet, both for your sake and for the sake of your readers. This is a free sample, and if you spend all your time on blog entries, you won't have time for your paying customers. Also, people who go looking for your content on the web aren't usually interested in a lengthy dissertation. Write enough to do the topic justice, but no more.
+Keep everything short and sweet, both for your sake and for the sake of your readers. This is a free sample, and if you spend all your time on blog entries, you won't have time for your paying customers. Also, people who go looking for your content on the web aren't usually interested in a lengthy dissertation. Write enough to do the topic justice, but no more.
 
-If you provide commentary on other resources, do take the time to add something more descriptive than "Hey look at this interesting website I just found." No one likes to click on a link without first getting a hint as to what they will see when they reach that site.
+If you are early in your career, you may have difficulty with writing good content. Don't let this stop you. An easy, and very valuable thing that anyone, even a beginner can do is to recommend interesting resources. Include a brief summary in your own words so people know what they are clicking on. Do this often enough in one area and you will have a very nice electronic version of an annotated bibliography. 
 
-For commentary, Facebook does an even better job than a blog because it automatically includes a thumbnail of one of the graphic images from the web page you are linking to. Better still, your Facebook posts will also include your picture (be sure you have a good Facebook picture). Repeated reminders of what you look like goes a long way to making people more comfortable with who you are.
+If you do offer links to other resources, do take the time to add something more descriptive than "Hey look at this interesting website I just found." No one likes to click on a link without first getting a hint as to what they will see when they reach that site. And please don't link to content that is stuck behind a pay wall.
 
-You should also consider using Web 2.0 tools to aggregate other people's content. The Internet is a huge place, and you can provide a great service by providing a "one stop shopping" spot for your readers. I come across Statistics events in the Kansas City area (ASA chapter meetings, local university seminars, R and SAS user group events, etc.) from a variety of sources and I was constantly losing track of what was happening when. Partly for my own benefit, but also for others, I set up a web page (http://www.pmean.com/kcstats.html) with general contact information for each group and announcements of upcoming events. With a bit of work, I could set up a reminder tweets that would provide notice 24 hours in advance of these events.
+</div>
 
-Twitter gets a lot of criticism for the 140 character limit, and it clearly is not the Web 2.0 tool for expounding on the recent advances in hierarchical models. But for simple announcements (like KC stats events), it is an excellent choice. Tweets are easily followed on your smartphone, an ideal platform for this type of information.
-Fun. Make your blog fun for you and it will become fun for your readers. Make sure that you have some passion for what you are writing about. If it seems like a chore, you won't have enough motivation to contribute regularly and your readers will pick up on your tone.
+## Focussed
 
-This applies double for the Web 2.0 tools that you choose to use. Don't use Web 2.0 tools that you find annoying. Twitter is wildly popular, but if you chafe at its 140 character limit, dump Twitter. Facebook and LinkedIn have their competing partisans and if you find yourself taking sides, that's okay. Some people love the informality of Facebook and cringe at the stodgy nature of LinkedIn. Others find Facebook to be vapid and self-centered and prefer the professional demeanor of LinkedIn. Use what you're comfortable with and ignore anything else. Just because you adopt one Web 2.0 tool does not mean you are obligated to recreate a similar presence on all the other Web 2.0 tools.
+* Too much diversity and you'll never reach a critical mass of content.
+
+* Find an under-served niche.
+
+* Pick on Web 2.0 tool for your primary work.
+
+<div class="notes">
+
+Think carefully about what you will blog about. A wide ranging blog about anything and everything is likely to be too diffuse to be of interest. It will also be difficult to build up a critical mass of content when you tackle too broad a range of topics.
+
+Find an under-served niche. There are over 750 R bloggers (www.r-bloggers.com), so you won't get much notice if you become the 751st blogger. If you must blog about R, pick a specialization within R, such as GIS applications, or you'll get lost in the crowd.
+
+Focus also applies to the Web 2.0 tools that you choose to use. Select one tool as your primary focus and if you use others, use them mostly to supplement and support that primary focus. So, for example, focus mostly on a blog and use Twitter to update people when a new blog post appears. Or focus on Twitter, and use your blog as an archive for your tweets. There are many tools that help you update multiple Web 2.0 sites simultaneously. LinkedIn, for example, offers you the option of sharing updates on Twitter as well. But even with this type of assistance, you run the risk of spreading yourself too thinly.
+
+</div>
+
+## Fun
+
+* Having fun is the best way to avoid burnout.
+
+* Talk directly to your readers.
+
+* Encourage your readers to talk back.
+
+* Share (a little) about your personal life.
+
+* No politics or religion.
+
+<div class="notes">
+
+Most importantly, HAVE FUN. You avoid burnout if you do what you enjoy. I tried LinkedIn, and I never liked it. It seemed too stodgy and was overloaded with head hunters. I found Facebook more enjoyable, but some people hate its informality. Twitter is a challenge to some people but it may be the best for you if you thrive on "short and sweet" discussions.
 
 Talk directly to your readers. You should try as much as possible to use the pronoun "you" rather than the pronoun "I" or the dreaded passive voice. Your blog is not the place to establish an aura of objectivity by adopting an encyclopedic tone.
 
@@ -379,13 +538,53 @@ Encourage your readers to talk back to you. Part of the value of a blog is that 
 
 Some people advocate keeping your personal life separate from your professional life, but I think it works to your advantage to share a little bit about yourself, your family, your hobbies, and your travels. It tends to humanize you and make you seem less of a stranger. Don't flood Facebook with hundreds of pictures of your cute dog, though. Your true friends will endure this and even pretend that they adore your dog as much as you do. But your professional contacts won't be so charitable.
 
-Some cautions. Use Web 2.0 tools too aggressively and it can backfire. While some self-promotion is okay, it's a fine line. You don't want to act like the stereotypical insurance salespeople who are constantly badgering all of their friends to buy more insurance. A good ratio to start at is one blog post directly promoting your consulting career for every ten blog posts that do not.
+Don't talk about politics or religion. You will narrow the scope of people who want to follow you. There are exceptions, such as political issues that impact statistical practice (such as U.s. Census issues).
 
-Be even more cautious about self-promotion on Facebook and LinkedIn. These sites often evolve community standards about what is acceptable and what is not. These standards are often tacit and they can vary greatly across different sites. Even within a Web 2.0 site there is substantial variation on what constitutes excessive self-promotion. The best thing to do is to watch how others behave and emulate them. If someone complains, apologize profusely and publicly. The worst thing you can do is argue, even if the complaint is unfounded. Let others in the community come to your defense if someone tries to enforce a standard more rigid that what the community as a whole prefers.
+</div>
+
+</div>
+
+## Great self-promotions
+
+Two examples:
+
+* Raynauld Levesque
+
+  + SPSS macros
+
+* Michael Chernick
+
+  + Amazone book reviews
+
+<div class="notes">
+
+Raynauld Levesque found an underserved niche when he developed a website about SPSS (http://www.spsstools.net). It wasn't a general site about SPSS, but rather a site about syntax and macros in SPSS. His site became to "go to" site for the really tough problems in SPSS that required macro solutions. Other people started contributing macros to his site. What a wonderful success you have achieved when your site gets fresh content from your readers.
+
+Michael Chernick developed a different niche. He produced reviews of Statistics textbooks for Amazon (http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ). He has reviewed over 600 books and his reviews are always informative. It's impossible to look on Amazon for advanced applications in Statistics without repeatedly seeing his name next to a detailed review.
+
+</div>
+
+## Some cautions
+
+* Be aware of community standards.
+
+* Emulate the behavior of others.
+
+* Don't spend too much time on self-promotion.
+
+<div class="notes">
+
+Many Internet sites often evolve community standards about what is acceptable and what is not. These standards are often tacit and they can vary greatly across different sites. Even within a site there is substantial variation on what constitutes excessive self-promotion. The best thing to do is to watch how others behave and emulate them. If someone complains, apologize profusely and publicly. The worst thing you can do is argue, even if the complaint is unfounded. Let others in the community come to your defense if someone tries to enforce a standard more rigid that what the community as a whole prefers.
+
 One final caution is to not spend too much time with Web 2.0 tools. These are usually very cheap and often free, but the trade-off is it takes time to produce information of enduring value. Don't skimp on your time, but you have to place limits, or these efforts will suck away your whole life.
 
-Summary. Web 2.0 tools shouldn't replace more traditional means of promotion, but they can help. If you use Web 2.0, be sure that you make your content focused, fresh, and fun.
+</div>
 
-Have you used Web 2.0 tools? I'd love to hear what was worked well for you and what hasn't.
+## Summary
 
-Steve Simon is a part-time independent statistical consultant and part-time faculty member at the University of Missouri-Kansas City. He has a web site (www.pmean.com), a Facebook account (www.facebook.com/pmean), a LinkedIn account (www.linkedin.com/in/pmean) and a Twitter feed (@ProfMean). He publishes The Monthly Mean, the email newsletter that dares to call itself average (www.pmean.com/news).
+Promote yourself with people you already know at your alma mater, your old workplace, your current clients. Expand your network of contacts through traditional means (taling, writing, volunteering), old school Internet (email, discussion groups, websites), Web 2.0 or Social Media (Facebook, LinkedIn, Twitter, etc.)
+
+A copy of these slides is available at https://github.com/pmean/finding-customers.
+
+Questions, comments? http://www.pmean.com/contact.html.
+
