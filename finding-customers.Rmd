@@ -58,9 +58,7 @@ You will find that people from all sorts of places will end up recommending you.
 
 * Satisfy their natural curiosity
 
-* Staying in touch emails
-
-
+* "Staying in touch" emails
 
 <div class="notes">
 
@@ -94,7 +92,7 @@ It's okay to ask for recommendations, but beware of poaching (stealing business 
 
 ## Spreading the word, with your current customers
 
-You may already have a few customers in the queue. If you do, take advantage of them as possible
+You may already have a few customers in the queue. If you do, take advantage of them as possible referral sources.
 
 * At the first session
 
@@ -238,6 +236,8 @@ All of these approaches cost next to nothing, but they are labor intensive.
 
 ## Traditional approaches
 
+You don't need an Internet presence to become well known.
+
 * Talking
 
 * Writing
@@ -245,6 +245,10 @@ All of these approaches cost next to nothing, but they are labor intensive.
 * Volunteering
 
 <div class="notes">
+
+People became famous before the Internet came along. They didn't need to "friend" several hundred people. They didn't need have their tweets retweeted. They didn't have to go viral.
+
+You can promote yourself the old fashioned way, by talking, writing, and volunteering.
 
 If you know something, talk about it. Talk at statistics gatherings, because fellow statisticians are a great referral source. But also talk before groups who might be potential clients.
 
@@ -264,6 +268,8 @@ Applications of Internet technologies developed in the prior century. Largely co
 
 * Email newsletters
 
+* Email discussion groups
+
 * Web sites
 
 <div class="notes">
@@ -272,23 +278,71 @@ Even though everyone talks about the latest social media application, the "old s
 
 An email newsletter provides a regular set of short articles distributed by email. Be sure to spend a bit of money on a professional vendor of email distribution software (Emma, Constant Contact). The well-known name, the opt-in subscription page, and the standard footer allowing unsubscription will help you avoid the perception that you are spamming people. 
 
+There are many interesting email discussion groups, though these have to some extent been supplanted by web based discussion groups like Stack Overflow, but they still work the same way. Find a group where you can both ask and answer questions. A group where you only ask questions won't help you establish your authority. A group where you only answer questions will seem tedious after a while.
+
 A static website is also very helpful. It can be as simple as a single page with contact information. Think of it as an electronic version of your business card.
-
-
-
-The first wave of Internet applications included email and static websites. These differ from the highly interactive nature of social media, but they still can be valuable resources.
-
-There was a time before email was common and before everyone surfed the web. These technologies revolution
-
 
 ## Web 2.0
 
-Promoting your consulting career in the era of Web 2.0
-If you are embarking on a career as an independent statistical consultant, you have to get the word out to potential customers. There are traditional ways to do this, but there are also new ways of promoting yourself using Web 2.0. These new approaches should not replace things like giving talks and asking current customers to recommend new clients. Even so, they can be useful supplements to the things you are already doing. These new approaches are inexpensive, if not totally free, but they are labor intensive.
+The hallmark of social media/Web 2.0 is a much higher degree of interactivity.
 
-Your goal, whether using Web 2.0 or more traditional approaches, is to build a level of familiarity with your potential customers. People don't like to hire total strangers. Sometimes they will but it is very scary. If someone knows you because they read your blog regularly, or because they follow your Twitter feeds, that reduces the fear factor somewhat. Don't forget to build that level of familiarity with your colleagues, as well. You will get many referrals from other statisticians who either aren't in the consulting business at all or who are unwilling or unable to assist in a particular consulting area. If your colleagues know of your expertise, they are more likely to refer business opportunities to you rather than someone else.
+* Facebook
 
-There are some very effective traditional ways of promoting yourself. "Word of mouth" is the way that most consultants rely on to for getting the bulk of their customers and there are lots of ways to enhance the "word of mouth" effect. Writing articles (like this one) also can be very useful. You should consider volunteering for high visibility roles in professional organizations and giving informational seminars related to your areas of expertise. Web 2.0 tools won't replace these more traditional means of self-promotion, but they do offer new and different approaches to build familiarity and trust with your potential customers.
+* LinkedIn
+
+* Twitter
+
+* Many others.
+
+Pick a primary area and use other areas to supplement your primary area.
+
+<div class="notes">
+
+If you're confused by Web 2.0, I am too. It is a hectic game of musical chairs (is Google+ going to replace Facebook?) and every new Web 2.0 tool touts its special unique features. In essence, Web 2.0 refers to a class of new tools for creating and sharing information on the Internet. Web 2.0 offers relative ease in creating and publishing information. Web 2.0 also makes it easy for others to comment on and enhance the material that you publish.
+
+
+Around the turn of the century, the Internet got a lot more interactive, and you will find communities that develop content collectively rather than a solo author putting up a series of articles.
+
+These new approaches offer a sense of immediacy, but I find that they, at the same time, offer a lack of permanence. But lots of people have gotten good mileage out of these social media sites.
+
+There is a lot of insipid stuff on social media, but that should not scare you away. A lot of people are using social media effectively to make a name for themselves and to promote their works.
+
+Your goal, whether using Web 2.0 or more traditional approaches, is to build a level of familiarity with your potential customers. People don't like to hire total strangers. Sometimes they will but it is very scary. If someone knows you because they read your blog regularly, or because they follow your Twitter feeds, that reduces the fear factor somewhat.
+
+</div>
+
+## I like blogging
+
+My recommendation for a primary area to promote your consulting business is a blog.
+
+* Built in tools for tagging, searching
+
+* Indexed by Google
+
+* More interactive than a website
+
+<div class="notes">
+
+I like blogging and I see that this is one of the best approaches to get some recognition. A blog requires regular work. Make a commitment: one post every other day or two per month. The frequency is not as important as the regularity. Don't do a flurry of posts and then burn out.
+
+If you are early in your career, you may have difficulty with writing good content for your blog. Don't let this stop you. An easy, and very valuable thing that anyone, even a beginner can do is to recommend interesting resources. Include a brief summary in your own words so people know what they are clicking on. Do this often enough in one area and you will have a very nice electronic version of an annotated bibliography.
+
+</div>
+
+## Develop a focus
+
+Whatever you choose, try to make your work stand out.
+
+* Raynauld Levesque
+
+* Michael Chernick
+
+<div class="notes">
+
+Raynauld Levesque found an underserved niche when he developed a website about SPSS (http://www.spsstools.net). It wasn't a general site about SPSS, but rather a site about syntax and macros in SPSS. His site became to "go to" site for the really tough problems in SPSS that required macro solutions. Other people started contributing macros to his site. What a wonderful success you have achieved when your site gets fresh content from your readers.
+
+Michael Chernick developed a different niche. He produced reviews of Statistics textbooks for Amazon (http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ). He has reviewed over 600 books and his reviews are always informative. It's impossible to look on Amazon for advanced applications in Statistics without repeatedly seeing his name next to a detailed review.
+
 
 If you're confused by Web 2.0, I am too. It is a hectic game of musical chairs (is Google+ going to replace Facebook?) and every new Web 2.0 tool touts its special unique features. In essence, Web 2.0 refers to a class of new tools for creating and sharing information on the Internet. Web 2.0 offers relative ease in creating and publishing information. Web 2.0 also makes it easy for others to comment on and enhance the material that you publish.
 
@@ -301,10 +355,6 @@ I like to think of other Web 2.0 tools as variations on a blog (Twitter, in fact
 Focused. Think carefully about what you will blog about. A wide ranging blog about anything and everything is likely to be too diffuse to be of interest. It will also be difficult to build up a critical mass of content when you tackle too broad a range of topics.
 
 Focus is good, but where should you place your focus? Pick something that helps establish your credibility as an expert in a particular area, of course, but more importantly, find an under-served niche. There are 393 R bloggers (www.r-bloggers.com), so you won't get much notice if you become the 394th blogger. If you must blog about R, pick a specialization within R, such as GIS applications, or you'll get lost in the crowd.
-
-Raynauld Levesque found an underserved niche when he developed a website about SPSS (http://www.spsstools.net). It wasn't a general site about SPSS, but rather a site about syntax and macros in SPSS. His site became to "go to" site for the really tough problems in SPSS that required macro solutions. Other people started contributing macros to his site. What a wonderful success you have achieved when your site gets fresh content from your readers.
-
-Michael Chernick developed a different niche. He produced reviews of Statistics textbooks for Amazon (http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ). He has reviewed over 600 books and his reviews are always informative. It's impossible to look on Amazon for advanced applications in Statistics without repeatedly seeing his name next to a detailed review.
 
 Focus also applies to the Web 2.0 tools that you choose to use. Select one tool as your primary focus and if you use others, use them mostly to supplement and support that primary focus. So, for example, focus mostly on a blog and use Twitter to update people when a new blog post appears. Or focus on Twitter, and use your blog as an archive for your tweets. There are many tools that help you update multiple Web 2.0 sites simultaneously. LinkedIn, for example, offers you the option of sharing updates on Twitter as well. But even with this type of assistance, you run the risk of spreading yourself too thinly.
 
