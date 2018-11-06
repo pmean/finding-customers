@@ -28,6 +28,30 @@ Before I dive into this talk, I should mention that these slides were produced u
 
 </div>
 
+## Why am I giving this talk?
+
+Totally clueless in 2008 when I started my own practice, so I decided to share what I learned.
+
+Some of my recent talks/articles on consulting
+
+* 2015 Conference on Statistical Practice
+
+* 2016 Joint Statistical Meeting
+
+* 2017 Conference on Statistical Practice
+
+* 2017 Amstat News
+
+* 2018 Statistical Consulting Section webinar
+
+<div class="notes">
+
+I'm very flattered to be invited here to talk to you (again!) about consulting. I started my own consulting business in 2008 and had to learn a lot very quickly. I decided to document what I learned and have shared it to make the process smoother and less anxiety-provoking for anyone else.
+
+I've given talks at a variety of venues, and if anyone wants to invite me to write or talk more about this just let me know. I'd love to collaborate on a book about statistical consulting, if anyone is interested.
+
+</div>
+
 ## The best way to find customers
 
 ![](images/word-of-mouth.png)
@@ -208,21 +232,21 @@ People don't mind emails if it includes something they want. You get almost as m
 
 There's a lot that you want to say about your consulting business, but those messages are more effective if they come after prompting. "I'm in consulting" "Oh what do you do?" will lead to a more productive exchange than "I'm a consultant. I specialize in statistical analyses involving health care issues. I'm looking for work involving both the planning and the analysis of clinical trials." 
 
-The image on this page was found at https://commons.wikimedia.org/wiki/File:Spam_can.png and is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
-
 </div>
 
 ## Introductions or re-introductions
 
-* Mention the word "consultant" but otherwise keep it short.
+* Mention the word "consultant" and emphasize your status with words like "independent" or "self-employed".
+
+* Otherwise, keep it short.
 
 * Wait for them to ask for more details.
 
 <div class="notes">
 
-When I introduce myself: "I have three jobs. I work part-time in the Department of Biomedical and Health Informatics at UMKC. I am supported on a grant with Enterprise Analytics at KUMC. I'm also an independent statistical consultant."
+When I introduce myself: "I'm an independent statistical consultant." The word "independent" implies "impartial" but also "on my own." Or let the person know you are self-employed.
 
-If you get an inquiring response, tell them about the types of clients you have, or the types of analyses you do. Keep it short and sweet, again. "Most of my clients are Ph.D. candidates. I handle just about anyone: education, psychology, social work, just to name a few."
+If you get an inquiring response, have a response realdy. Tell them about the types of clients you have, or the types of analyses you do. Keep it short and sweet, again. "Most of my clients are Ph.D. candidates." or "I handle just about anyone: education, psychology, social work, medicine, just to name a few." or "I specialize in clinical trials."
 
 </div>
 
@@ -488,9 +512,9 @@ The most labor intensive part of social media is creating compelling content. Wh
 
 <div class="notes">
 
-Fresh. You need to provide regular entries. It doesn't matter whether you write every other day or every other week, but make the commitment to update on a regular and predictable pattern. Don't start out too fast. You'll burn yourself out, but you'll also raise a level of expectation from your readers that you won't be able to maintain. Freshness is even more critical for Facebook and Twitter. Old posts and tweets fade into the background more quickly than a blog entry would. If you can't make the commitment to visit a Web 2.0 site and update things regularly, leave that site off your list entirely rather than make a half-hearted effort.
+Fresh. You need to provide regular entries. It doesn't matter whether you write every other day or every other week, but make the commitment to update on a regular and predictable pattern. Don't start out too fast. You'll burn yourself out, and you'll also raise a level of expectation from your readers that you won't be able to maintain.
 
-Keep everything short and sweet, both for your sake and for the sake of your readers. This is a free sample, and if you spend all your time on blog entries, you won't have time for your paying customers. Also, people who go looking for your content on the web aren't usually interested in a lengthy dissertation. Write enough to do the topic justice, but no more.
+Keep everything short and sweet, both for your sake and for the sake of your readers.
 
 If you are early in your career, you may have difficulty with writing good content. Don't let this stop you. An easy, and very valuable thing that anyone, even a beginner can do is to recommend interesting resources. Include a brief summary in your own words so people know what they are clicking on. Do this often enough in one area and you will have a very nice electronic version of an annotated bibliography. 
 
@@ -498,7 +522,7 @@ If you do offer links to other resources, do take the time to add something more
 
 </div>
 
-## Focussed
+## Focused
 
 * Too much diversity and you'll never reach a critical mass of content.
 
@@ -524,10 +548,6 @@ Focus also applies to the Web 2.0 tools that you choose to use. Select one tool 
 
 * Encourage your readers to talk back.
 
-* Share (a little) about your personal life.
-
-* No politics or religion.
-
 <div class="notes">
 
 Most importantly, HAVE FUN. You avoid burnout if you do what you enjoy. I tried LinkedIn, and I never liked it. It seemed too stodgy and was overloaded with head hunters. I found Facebook more enjoyable, but some people hate its informality. Twitter is a challenge to some people but it may be the best for you if you thrive on "short and sweet" discussions.
@@ -536,11 +556,19 @@ Talk directly to your readers. You should try as much as possible to use the pro
 
 Encourage your readers to talk back to you. Part of the value of a blog is that your readers can post comments on your blog posts. This can be scary, but these comments can add great value. Your readers  will feel a better emotional connection to you and see you as more as a colleague and peer. Stay vigilant, though, and remove off-topic or off-color responses. Bad commentary will reflect poorly on you.
 
+</div>
+
+## Fun
+
+* Share (a little) about your personal life.
+
+* No politics or religion.
+
+<div class="notes">
+
 Some people advocate keeping your personal life separate from your professional life, but I think it works to your advantage to share a little bit about yourself, your family, your hobbies, and your travels. It tends to humanize you and make you seem less of a stranger. Don't flood Facebook with hundreds of pictures of your cute dog, though. Your true friends will endure this and even pretend that they adore your dog as much as you do. But your professional contacts won't be so charitable.
 
-Don't talk about politics or religion. You will narrow the scope of people who want to follow you. There are exceptions, such as political issues that impact statistical practice (such as U.s. Census issues).
-
-</div>
+Don't talk about politics or religion. You will narrow the scope of people who want to follow you. There are exceptions, such as political issues that impact statistical practice (such as U.S. Census issues).
 
 </div>
 
@@ -554,13 +582,25 @@ Two examples:
 
 * Michael Chernick
 
-  + Amazone book reviews
+  + Amazon book reviews
 
 <div class="notes">
 
 Raynauld Levesque found an underserved niche when he developed a website about SPSS (http://www.spsstools.net). It wasn't a general site about SPSS, but rather a site about syntax and macros in SPSS. His site became to "go to" site for the really tough problems in SPSS that required macro solutions. Other people started contributing macros to his site. What a wonderful success you have achieved when your site gets fresh content from your readers.
 
 Michael Chernick developed a different niche. He produced reviews of Statistics textbooks for Amazon (http://www.amazon.com/gp/pdp/profile/AQ7ZQWXAYT8HZ). He has reviewed over 600 books and his reviews are always informative. It's impossible to look on Amazon for advanced applications in Statistics without repeatedly seeing his name next to a detailed review.
+
+</div>
+
+## Shira (Julie Elliot)
+
+![](images/shira.png)
+
+<div class="notes">
+
+One of the best examples of self-promotion comes from a non-statistical area. A good friend of mine, Julie Elliot, has a wonderful website about belly dancing (shira.net). The content is great and you hardly notice the efforts at self-promotion. Also take a look at her Twitter feed (@shiradotnet), which reinforces content on her web page. She's one of the few people I know who knows how to do Twitter well.
+
+Julie has also gotten a lot of the belly dancing community working with her. Notice the large number of articles on her website that are written by others.
 
 </div>
 
@@ -582,9 +622,9 @@ One final caution is to not spend too much time with Web 2.0 tools. These are us
 
 ## Summary
 
-Promote yourself with people you already know at your alma mater, your old workplace, your current clients. Expand your network of contacts through traditional means (taling, writing, volunteering), old school Internet (email, discussion groups, websites), Web 2.0 or Social Media (Facebook, LinkedIn, Twitter, etc.)
+Promote yourself with people you already know. Expand your network of contacts through traditional means, old school Internet, and Web 2.0 or Social Media.
 
-A copy of these slides is available at https://github.com/pmean/finding-customers.
+* A copy of these slides is available at https://github.com/pmean/finding-customers.
 
-Questions, comments? http://www.pmean.com/contact.html.
+* Questions, comments? http://www.pmean.com/contact.html.
 
